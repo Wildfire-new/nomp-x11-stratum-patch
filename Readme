@@ -1,4 +1,4 @@
 
-wget nomp_x11_stratum_patch.diff
+wget https://github.com/Wildfire-new/nomp-x11-stratum-patch/blob/master/nomp_x11_stratum_patch.diff
 
 patch -p1 < nomp_x11_stratum_patch.diff
